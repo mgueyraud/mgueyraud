@@ -2,7 +2,7 @@
 
 Hi, I'm Mario Gueyraud, a passionate Frontend Developer from Paraguay.
 
-<a href="mariogyd.com">mariogyd.com</a>
+<a href="http://mariogyd.com" target="_blank">mariogyd.com</a>
 
 ## I am passionate about:
 
