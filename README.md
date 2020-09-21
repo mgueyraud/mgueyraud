@@ -1,6 +1,6 @@
 # 🖥 Front End Developer
 
-Hi, I'm Mario Gueyraud, a passionate frontEnd web developer from Paraguay.
+Hi, I'm Mario Gueyraud, a passionate Frontend Developer from Paraguay.
 
 ## I am passionate about:
 
@@ -23,6 +23,7 @@ Hi, I'm Mario Gueyraud, a passionate frontEnd web developer from Paraguay.
     	<li>Visual Studio Code</li>
 		<li>Adobe Photoshop</li>
 		<li>Sketch</li>
+		<li>Figma</li>
     </ul>
 
 </details>
