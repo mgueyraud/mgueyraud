@@ -1,43 +1,12 @@
-# 🖥 Front End Developer
+Hello, I’m Mario Gueyraud.
 
-Hi, I'm Mario Gueyraud, a passionate Frontend Developer from Paraguay.
+I'm a UI/React developer based in Paraguay. I'm interested in design systems, web3, user/dev experience and under engineering.
 
-## I am passionate about:
+I'm currently working with Lithium outsourced to a company called tonic3, where we do amazing products for Avery Dennison.
 
-- Web Develpoment
-- Android & iOS Dev
+Previously, I worked at Teixido as a UI Developer. Where I contributed to the web pages of very important companies of my country
 
-## Skills
+[My personal website][https://mariogyd.com]
+[@mariogyd on Twitter][https://twitter.com/mariogyd]
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/Vue -41b883" />
-<img src="https://img.shields.io/badge/SCSS -FF0000" />  
-<img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
-<img src="https://img.shields.io/badge/JAVA -FF0000" />  
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
-
-</br>
-<details>
-	<summary>Tools</summary>
-	<ul>
-    	<li>Visual Studio Code</li>
-		<li>Adobe Photoshop</li>
-		<li>Sketch</li>
-		<li>Figma</li>
-    </ul>
-
-</details>
-
-<details>
-	<summary>Operating Systems</summary>
-	<ul>
-		<li>Windows</li>
-        <li>MacOS</li>
-	</ul>
-</details>
-</br>
-</br>
-<!-- <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a> -->
-<a href="https://www.linkedin.com/in/mariogyd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mariogyd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<!-- <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
+👊
